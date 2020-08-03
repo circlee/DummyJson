@@ -1,0 +1,50 @@
+{
+	"main" : {
+		"stores" : [
+			{
+				"storeUid" : 1
+				, "name" : "eldie's house"
+				, "address" : "seoul songpa 1021121"
+				, "image" : "https://85434-1154808-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/chop-stop-logo-2.png"
+				, "openStatus" : {
+					"code" : "OPEN"
+					, "startAt" : "2020-07-18T15:16:33.647+09:00"
+					, "closeAt" : "2020-08-18T15:16:33.647+09:00"
+				}
+			}
+			, {
+				"storeUid" : 2
+				, "name" : "jack house"
+				, "address" : "seoul songpa 1021121"
+				, "image" : "https://85434-1154808-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/chop-stop-logo-2.png"
+				, "openStatus" : {
+					"code" : "OPEN"
+					, "startAt" : "2020-07-18T15:16:33.647+09:00"
+					, "closeAt" : "2020-08-18T15:16:33.647+09:00"
+				}
+			}
+			, {
+				"storeUid" : 3
+				, "name" : "ddd house"
+				, "address" : "seoul songpa 1021121"
+				, "image" : "https://85434-1154808-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/chop-stop-logo-2.png"
+				, "openStatus" : {
+					"code" : "OPEN"
+					, "startAt" : "2020-07-18T15:16:33.647+09:00"
+					, "closeAt" : "2020-08-18T15:16:33.647+09:00"
+				}
+			}
+			, {
+				"storeUid" : 4
+				, "name" : "tdd house"
+				, "address" : "seoul songpa 1021121"
+				, "image" : "https://85434-1154808-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/chop-stop-logo-2.png"
+				, "openStatus" : {
+					"code" : "OPEN"
+					, "startAt" : "2020-07-18T15:16:33.647+09:00"
+					, "closeAt" : "2020-08-18T15:16:33.647+09:00"
+				}
+			}
+		]
+	}	
+}
